@@ -1,0 +1,12 @@
+/Users/aluno/Projects/HelloApp/HelloApp/bin/Debug/netstandard2.0/HelloApp.deps.json
+/Users/aluno/Projects/HelloApp/HelloApp/bin/Debug/netstandard2.0/HelloApp.dll
+/Users/aluno/Projects/HelloApp/HelloApp/bin/Debug/netstandard2.0/HelloApp.pdb
+/Users/aluno/Projects/HelloApp/HelloApp/obj/Debug/netstandard2.0/HelloApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/HelloApp/HelloApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/HelloApp/HelloApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/HelloApp/HelloApp/obj/Debug/netstandard2.0/HelloApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/HelloApp/HelloApp/obj/Debug/netstandard2.0/HelloApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/HelloApp/HelloApp/obj/Debug/netstandard2.0/HelloApp.AssemblyInfo.cs
+/Users/aluno/Projects/HelloApp/HelloApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/HelloApp/HelloApp/obj/Debug/netstandard2.0/HelloApp.dll
+/Users/aluno/Projects/HelloApp/HelloApp/obj/Debug/netstandard2.0/HelloApp.pdb

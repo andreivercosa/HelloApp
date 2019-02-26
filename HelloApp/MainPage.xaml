@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:HelloApp" x:Class="HelloApp.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="HUNT"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               BackgroundColor="Red"
+               FontSize="50"
+               TextColor="White"
+               FontAttributes="Bold"
+               />
+        <Label Text="HALLO"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               BackgroundColor="Blue"
+               FontSize="50"
+               TextColor="White"
+               FontAttributes="Italic"
+               />
+        
+       <Label Text="FATER"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               BackgroundColor="Green"
+               FontSize="50"
+               TextColor="Silver"
+               FontAttributes="Bold, Italic"
+               
+               />
+    </StackLayout>
+</ContentPage>

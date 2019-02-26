@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9F166F07-0874-4444-8A26-F34BE0310895}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloApp.Android FirstBuild="True" PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloApp/MainPage.xaml">
+    <Files>
+      <File FileName="HelloApp/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="HelloApp/MainPage.xaml" Line="8" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloApp" expanded="True">
+            <Node name="HelloApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HelloApp FirstBuild="True" />
+</Properties>
